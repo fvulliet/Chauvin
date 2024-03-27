@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/CA.png</file>
+        <file>img/Chauvin.png</file>
+        <file>img/chauvin_arnoux_logo.png</file>
+        <file>img/CA8345.png</file>
+        <file>img/CA5293.jpg</file>
+        <file>img/CA6505.jpg</file>
+        <file>img/F403.jpg</file>
+        <file>../devices.json</file>
+        <file>Style.js</file>
+        <file>Colors.qml</file>
+        <file>qmldir</file>
+        <file>components/Header.qml</file>
+        <file>components/Footer.qml</file>
+        <file>components/Payload.qml</file>
+        <file>components/ControlBar.qml</file>
+        <file>components/Device.qml</file>
+        <file>components/LandingPage.qml</file>
+        <file>fonts/fontawesome-webfont.ttf</file>
+    </qresource>
+</RCC>

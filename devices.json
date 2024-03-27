@@ -1,0 +1,30 @@
+[
+    {
+        "reference": "CA8345",
+		"majorVersion": 1,
+		"minorVersion": 10,
+        "description": "power quality analyzer",
+        "photo": "CA8345.png"
+    },
+	{
+        "reference": "CA5293",
+		"majorVersion": 2,
+		"minorVersion": 8,
+        "description": "graphic colour TRMS DIMM",
+        "photo": "CA5293.jpg"
+    },
+	{
+        "reference": "CA6505",
+		"majorVersion": 1,
+		"minorVersion": 42,
+        "description": "megohmmeter",
+        "photo": "CA6505.jpg"
+    },
+	{
+        "reference": "F403",
+		"majorVersion": 4,
+		"minorVersion": 19,
+        "description": "TRMS clamp meter",
+        "photo": "F403.jpg"
+    }
+]

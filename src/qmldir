@@ -1,0 +1,2 @@
+// qmldir
+singleton MyColors 1.0 Colors.qml
