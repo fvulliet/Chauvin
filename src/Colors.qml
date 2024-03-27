@@ -19,12 +19,12 @@ QtObject {
 
     readonly property var theme1: {
         'themeName' : 'theme1',
-        'style_darkColor': '#0d1b2a',
-        'style_midDarkColor': '#1b263b',
-        'style_midBrightColor': '#415a77',
-        'style_brightColor': '#778da9',
+        'style_darkColor': '#000000',
+        'style_midDarkColor': '#8080ff',
+        'style_midBrightColor': '#fcd647',
+        'style_brightColor': '#ffffff',
         'style_darkTextColor': '#0d1b2a',
-        'style_brightTextColor': '#778da9'
+        'style_brightTextColor': '#c0c0c0'
     }
 
     readonly property var theme2: {
@@ -59,12 +59,12 @@ QtObject {
 
     readonly property var theme5: {
         'themeName' : 'theme5',
-        'style_darkColor': '#030637',
-        'style_midDarkColor': '#3C0753',
-        'style_midBrightColor': '#720455',
-        'style_brightColor': '#910A67',
-        'style_darkTextColor': '#030637',
-        'style_brightTextColor': '#910A67'
+        'style_darkColor': '#0d1b2a',
+        'style_midDarkColor': '#1b263b',
+        'style_midBrightColor': '#415a77',
+        'style_brightColor': '#778da9',
+        'style_darkTextColor': '#0d1b2a',
+        'style_brightTextColor': '#778da9'
     }
 
 
